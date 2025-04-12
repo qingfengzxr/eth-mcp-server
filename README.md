@@ -82,3 +82,5 @@ The service uses the following external APIs:
 
 4. Once you have successfully set up, you can retrieve ETH information in Cursor by using chat.
 
+## example
+![](./imgs/image004.jpg)
