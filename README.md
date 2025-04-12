@@ -29,6 +29,8 @@ Now is support tools & resources
 2. Install required dependencies:
    ```shell
    pip install web3 requests
+   pip install mcp mcp[cli]
+   pip install uv
    ```
 3. Replace the Etherscan API key in the code with your own:
    ```python
